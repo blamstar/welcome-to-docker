@@ -48,7 +48,7 @@ const App = () => {
             class="fa-brands fa-reddit"
             rel="noopener noreferrer"
           >
-            {" "}
+            {" XXXXXX"}
           </a>
         </div>
       </header>
